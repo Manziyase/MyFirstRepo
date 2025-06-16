@@ -1,2 +1,2 @@
 # MyFirstRepo
-my first experiance
+My first experience
